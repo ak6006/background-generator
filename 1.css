@@ -1,0 +1,19 @@
+
+h2	{
+color: red;
+text-align: center;
+/*border: 5px solid purple;*/
+
+}
+p{
+	color: pink;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120%;
+}
+body	{
+	background-image: url(image1.jpg);
+	background-size: cover;
+
+}
